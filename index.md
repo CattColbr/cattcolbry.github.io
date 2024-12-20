@@ -1,5 +1,5 @@
 # Catt Colbry
-Breif Description
+ Hello, My name is catt. I am a graphic artist and have made quite a few logos in the past years. These are being used on websites that are used readily and seen by many. I enjoy making thoughtful and detailed logos that read well from afar while being nuanced enough to make you think.
 # Portfolio
 ## CMSE Capstone
 ![Image of graduation cap with MSU ontop](https://msu-cmse-courses.github.io/cmse495-SS25/assets/img/Capstone_Logo.png){: width="50%"}  
@@ -9,10 +9,10 @@ Date made 12/14/2024 [Link to website](https://msu-cmse-courses.github.io/cmse49
 The initials of the Kid conders channel written in the channel owners favorite colors.  
 Date made 06/13/2024 [Link to website](https://www.youtube.com/@KidCoder-256)  
 ## Pandas
-![A computer screen reflects the image of a panda that is utilizing mail merge.](https://gitlab.msu.edu/colbrydi/mailmerge/-/raw/main/MailMerge.png) 
+![A computer screen reflects the image of a panda that is utilizing mail merge.](https://gitlab.msu.edu/colbrydi/mailmerge/-/raw/main/MailMerge.png){: width="50%"} 
 This logo was made for the pandas mail merge software. A panda using the mail merge program is reflected in the screen of the computer they are using. This design went through many itterations but the outcome is exactly what was needed. 
 Date made 04/13/2024 [Link to website] (https://gitlab.msu.edu/colbrydi/mailmerge)
 ## Jupyter Instruct
-![A cartoon rendition of the planet jupiter floats infront of a blackboard](https://raw.githubusercontent.com/colbrydi/jupyterinstruct/master/docs/images/JupyterInstruct_icon.png) 
+![A cartoon rendition of the planet jupiter floats infront of a blackboard](https://raw.githubusercontent.com/colbrydi/jupyterinstruct/master/docs/images/JupyterInstruct_icon.png){: width="50%"} 
 This logo was my first ever. It features the planet jupiter teaching on a clasic black board, with their pointing tool. It is whimsical and fun and one of my favorite projects.  
 Date made 09/30/2020 [Link to website](https://colbrydi.github.io/jupyterinstruct/)  
