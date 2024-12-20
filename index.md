@@ -2,7 +2,7 @@
 Breif Description
 # Portfolio
 ## CMSE Capstone
-![Image of graduation cap with MSU ontop](https://msu-cmse-courses.github.io/cmse495-SS25/assets/img/Capstone_Logo.png)  
+![Image of graduation cap with MSU ontop](https://msu-cmse-courses.github.io/cmse495-SS25/assets/img/Capstone_Logo.png){: width="50%"}  
 Description of image  
 Date made 00/00/0000 [Link to website](Http)
 ## Pandas
